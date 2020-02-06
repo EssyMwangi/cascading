@@ -1,9 +1,15 @@
+body{
+  background-color: brown;
+}
 .dogs p a {
   font-weight: bold;
 }
-.cats p {
+.cats {
   background-color: coral;
+  height: 300px;
 }
-.dogs p {
+.dogs{
   background-color: steelblue;
+  height: 300px;
 }
+
